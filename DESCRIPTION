@@ -1,0 +1,26 @@
+Package: systemPipePolyRIBOseq
+Title: systemPipePolyRIBOseq
+Version: 0.9.0
+Authors@R: c(
+    person(given = "Daniela", family = "Cassol", role = c("aut", "cre"), email="danielac@ucr.edu"), 
+    person(given = "Thomas", family = "Girke", role = c("aut")))
+Description: This package provides a pre-configured
+    workflow and reporting template for polyRibo-Seq.
+License: Artistic-2.0
+URL: https://github.com/systemPipeR/systemPipePolyRIBOseq
+Imports: 
+    systemPipeR
+Suggests: 
+    BiocStyle,
+    knitr,
+    rmarkdown
+VignetteBuilder: 
+    knitr
+biocViews: Infrastructure, ...
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+SystemRequirements: systemPipePolyRIBOseq can be used to run
+    external command-line software, but the corresponding tool needs to be
+    installed on a system.
