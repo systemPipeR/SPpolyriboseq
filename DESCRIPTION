@@ -16,7 +16,7 @@ Suggests:
     systemPipeR
 VignetteBuilder: 
     knitr
-biocViews: Infrastructure, HiC, Workflow
+biocViews: Infrastructure, PolyRiboSeq, Workflow
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

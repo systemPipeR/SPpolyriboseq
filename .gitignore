@@ -5,3 +5,4 @@
 .DS_Store
 vignettes/*_cache/*
 vignettes/*.html
+logs.sh

@@ -6,7 +6,6 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 <!-- badges: end -->
 
-
 ### :construction: Under Development!
 
 > This pipeline is currently under development and does not have a stable release yet.
@@ -27,4 +26,3 @@ BiocManager::install("systemPipeR")
 BiocManager::install("systemPipeRdata")
 ```
 
-### Usage
